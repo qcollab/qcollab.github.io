@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Quantum Computing Research Collaboration
+QCOLLAB is a research collaboration on Quantum Computing. 
