@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Quantum Computing Research Collaboration"
-excerpt: "About us"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
