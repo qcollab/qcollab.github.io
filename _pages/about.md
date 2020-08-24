@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 ## Overview
-```
+
 QCOLLAB is a research collaboration on Quantum Computing. 
-```
+
 ### Projects
-#### Quahtum Phase Estimation 
 
-#### Quantum Optimization 
+#### 1. Quahtum Phase Estimation 
 
-#### Quantum Machine Learning
+#### 2. Quantum Optimization 
+
+#### 3. Quantum Machine Learning
 
 ### About us
-```
-Ph.D. Young-Hyun Oh
-Ph.D. Hamed Mohammadbagherpoor
-```
+Young-Hyun Oh, Ph.D.    
+Hamed Mohammadbagherpoor, Ph.D.   
+
