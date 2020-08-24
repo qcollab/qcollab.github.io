@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "QCOLLAB"
 title_separator          : "-"
 name                     : &name "qcollab"
 description              : &description "Quantum Computing Collaboration"
