@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## Overview
+```
 QCOLLAB is a research collaboration on Quantum Computing. 
-
-### Contact us 
-
-#### Ph.D. Young-Hyun Oh
-
-
-#### Ph.D. Hamed Mohammadbagherpoor
+```
+### About us
+```
+Ph.D. Young-Hyun Oh
+Ph.D. Hamed Mohammadbagherpoor
+```
