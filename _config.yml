@@ -83,7 +83,7 @@ author:
   name             : "qcollab"
   avatar           : "profile.PNG"
   bio              : "Quantum Computing Research Collaboration"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
