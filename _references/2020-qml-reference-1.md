@@ -1,8 +1,8 @@
 ---
 title: "Quantum Machine Learning"
 collection: References
-type: "QML"
 permalink: /references/2020-qml-reference-1
+date: 2020
 ---
 
 References for Quantum Machine Learning:  
